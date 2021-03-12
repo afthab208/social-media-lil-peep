@@ -1,0 +1,22 @@
+* {
+    font-family: 'Poppins';
+   
+}
+input {
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+
+}
+h1 {
+    text-align: center;
+   
+}
+img {
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
